@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m an ICT Application Development student at CPUT with a passion for creating innovative software solutions. My background in Java, Python, and full-stack development drives my interest in tackling real-world tech challenges, and I love exploring emerging technologies to continually expand my skillset.
+
 <!--
 **ReeceJoseph7Uni/ReeceJoseph7Uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
